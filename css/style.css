@@ -218,7 +218,7 @@ textarea {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/hero-logo-mob.jpg);
+    url(../images/hero-logo-mob.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -230,7 +230,7 @@ textarea {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/hero-logo-mob@2x.jpg);
+      url(../images/hero-logo-mob@2x.jpg);
   }
 }
 @media screen and (min-width: 768px) {
@@ -241,7 +241,7 @@ textarea {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/hero-logo-tab.jpg);
+      url(../images/hero-logo-tab.jpg);
   }
 }
 @media screen and (min-width: 768px) and (min-resolution: 192dpi) {
@@ -252,7 +252,7 @@ textarea {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/hero-logo-tab@2x.jpg);
+      url(../images/hero-logo-tab@2x.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -274,7 +274,7 @@ textarea {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(/images/hero-logo@2x.jpg);
+      url(../images/hero-logo@2x.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
